@@ -12,6 +12,7 @@ char uno (char b){
     r=false;
     d=1;
     }
+  
   return d;
   
   }
